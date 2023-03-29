@@ -1,0 +1,17 @@
+Name : Shubham More
+Class : TE IT
+Roll No: 47
+Mobile : 8830324263
+Email : shubhamore212@gmai.com
+college : MET Institute Of Engg.
+
+
+
+
+
+
+create repository
+
+git init
+git add .  ---- to push all files from folder
+
